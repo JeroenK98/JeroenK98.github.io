@@ -1,0 +1,48 @@
+// Light touches on top of just-the-docs: narrower text, quieter headings, round portrait.
+
+.main-content {
+  max-width: 44rem;
+  line-height: 1.65;
+}
+
+.main-content h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.main-content h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2.25rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e6e1e8;
+}
+
+.tagline {
+  color: #5c5f77;
+  font-size: 1.05rem;
+  margin-top: 0;
+}
+
+.portrait {
+  float: right;
+  width: 9rem;
+  height: 9rem;
+  margin: 0 0 1rem 1.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 20%;
+}
+
+.label {
+  margin-right: 0.25rem;
+}
+
+@media (max-width: 50rem) {
+  .portrait {
+    float: none;
+    display: block;
+    margin: 0 0 1rem 0;
+  }
+}

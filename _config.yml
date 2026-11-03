@@ -1,8 +1,18 @@
 title: Jeroen Kole
-description: PhD Candidate History, University of Antwerp
+description: PhD candidate in History, University of Antwerp
 theme: just-the-docs
 
 url: https://JeroenK98.github.io
 
+# A five-page site does not need search or anchor links
+search_enabled: false
+heading_anchors: false
+back_to_top: false
+
 aux_links:
-  My Github: https://github.com/JeroenK98
+  Email: mailto:jeroen.kole@uantwerpen.be
+  GitHub: https://github.com/JeroenK98
+  Hugging Face: https://huggingface.co/JeroenK98
+aux_links_new_tab: true
+
+footer_content: "&copy; 2026 Jeroen Kole"
