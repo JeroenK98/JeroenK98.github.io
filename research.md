@@ -19,7 +19,8 @@ Supervisors: Prof. Bruno Blondé, Prof. Ilja Van Damme, Dr. Wout Saelens. Public
 
 **Forthcoming**
 
-- Kole, J. "No Class, No Style? A Stylometric Analysis of Identity and Stylistic Individuation in Dutch Hip-Hop." *Computational Humanities Research 2027* (CHR2027), Manchester. [Preprint](#) · [Code](#)
+- Kole, J. "No Class, No Style? A Stylometric Analysis of Identity and Stylistic Individuation in Dutch Hip-Hop." *Computational Humanities Research 2027* (CHR2027), Manchester.
+- Blondé, Bruno, Jeroen Kole, and Ilja Van Damme. ‘The Consuming Middling Sort of People. Consumption Inequalities in the Low Countries, 16th-19th Centuries’. In *The Middle Class Paradox: Affluence and Inequality in Belgium, Past and Present*, edited by Bruno Blondé and Ive Marx. 2027.
 
 **Published**
 
