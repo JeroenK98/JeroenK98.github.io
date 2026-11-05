@@ -11,7 +11,7 @@ nav_order: 2
 *Escaping Inequality? Domesticity in Nineteenth-Century Antwerp*
 {: .tagline }
 
-The dissertation asks how economic inequality and material inequality related to each other in Antwerp, a port city undergoing globalisation and industrialisation. It combines three benchmark years (1835, 1880, 1912) of probate inventories and linked inheritance declarations, using inequality measures for wealth and cluster analysis for material culture and domestic space. A central question is how far households that were poor on paper, or filed no declaration at all, still lived a respectable bourgeois domestic life.
+The dissertation asks how economic inequality and material inequality related to each other in Antwerp, a port city undergoing globalisation and industrialisation. It combines three benchmark years (1835, 1880, 1912) of probate inventories and linked inheritance declarations, using inequality measures for wealth and cluster analysis for material culture and domestic space. A central question is if and to what extent material objects could be used to smooth over economic differences across and within socioeconomic groups.
 
 Supervisors: Prof. Bruno Blondé, Prof. Ilja Van Damme, Dr. Wout Saelens. Public defence: 27 January 2027.
 
