@@ -11,9 +11,9 @@ nav_order: 3
 
 <span class="label label-blue">Stylometry</span> <span class="label">Python</span> <span class="label label-green">CHR 2027</span>
 
-Nine Dutch rappers, 1995 to 2026. I separate *stylistic development* (change relative to an artist's own earlier work) from *stylistic individuation* (growing distance from contemporaries), using TF-IDF character n-grams on three-year windows, leave-one-out self-distance, peer-distance and bootstrap checks. Development is widespread; individuation is not: only two artists, Typhoon and Sef, drift away from their own past and from the field at the same time.
+Nine Dutch rappers, 2004 to 2026. I separate stylistic development (change relative to an artist’s own earlier work) from stylistic individuation (growing distance from contemporaries), using TF-IDF character n-grams on three-year windows, leave-one-out self-distance, distance to peers and to the wider scene, and exact permutation tests. Most artists develop, either gradually (Hef, Sef) or through directional drift (Typhoon, Lange Frans), largely through pronoun and function-word use. Individuation is not established: no artist moves significantly away from their peers, and against the wider scene only Lange Frans does.
 
-[View on GitHub](https://github.com/JeroenK98/CHR2027_No_class_No_Style){: .btn .btn-outline .fs-3 }
+[View on GitHub](https://github.com/JeroenK98/CHR027_No_class_No_Style){: .btn .btn-outline .fs-3 }
 
 ## Multi-label topic detection in hotel reviews
 {: .no_toc }
