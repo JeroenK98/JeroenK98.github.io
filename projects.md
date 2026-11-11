@@ -13,7 +13,7 @@ nav_order: 3
 
 Nine Dutch rappers, 1995 to 2026. I separate *stylistic development* (change relative to an artist's own earlier work) from *stylistic individuation* (growing distance from contemporaries), using TF-IDF character n-grams on three-year windows, leave-one-out self-distance, peer-distance and bootstrap checks. Development is widespread; individuation is not: only two artists, Typhoon and Sef, drift away from their own past and from the field at the same time.
 
-[View on GitHub](https://github.com/JeroenK98/CHR027_No_class_No_Style){: .btn .btn-outline .fs-3 }
+[View on GitHub](https://github.com/JeroenK98/CHR2027_No_class_No_Style){: .btn .btn-outline .fs-3 }
 
 ## Multi-label topic detection in hotel reviews
 {: .no_toc }
