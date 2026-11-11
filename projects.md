@@ -13,7 +13,7 @@ nav_order: 3
 
 Nine Dutch rappers, 2004 to 2026. I separate stylistic development (change relative to an artist’s own earlier work) from stylistic individuation (growing distance from contemporaries), using TF-IDF character n-grams on three-year windows, leave-one-out self-distance, distance to peers and to the wider scene, and exact permutation tests. Most artists develop, either gradually (Hef, Sef) or through directional drift (Typhoon, Lange Frans), largely through pronoun and function-word use. Individuation is not established: no artist moves significantly away from their peers, and against the wider scene only Lange Frans does.
 
-[View on GitHub](https://github.com/JeroenK98/CHR027_No_class_No_Style){: .btn .btn-outline .fs-3 }
+[View on GitHub](https://github.com/JeroenK98/CHR027_No_Class_No_Style){: .btn .btn-outline .fs-3 }
 
 ## Multi-label topic detection in hotel reviews
 {: .no_toc }
